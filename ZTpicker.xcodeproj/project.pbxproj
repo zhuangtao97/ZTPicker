@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BFB820571DCAE24E00350104 /* demo1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BFB820561DCAE24E00350104 /* demo1.mp4 */; };
+		BFB820591DCAE33E00350104 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFB820581DCAE33E00350104 /* demo.gif */; };
 		BFD2DD731D8B9A7500A864BE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BFD2DD721D8B9A7500A864BE /* main.m */; };
 		BFD2DD761D8B9A7500A864BE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BFD2DD751D8B9A7500A864BE /* AppDelegate.m */; };
 		BFD2DD791D8B9A7500A864BE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFD2DD781D8B9A7500A864BE /* ViewController.m */; };
@@ -43,6 +44,7 @@
 
 /* Begin PBXFileReference section */
 		BFB820561DCAE24E00350104 /* demo1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = demo1.mp4; sourceTree = "<group>"; };
+		BFB820581DCAE33E00350104 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		BFD2DD6E1D8B9A7500A864BE /* ZTpicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZTpicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFD2DD721D8B9A7500A864BE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BFD2DD741D8B9A7500A864BE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 			isa = PBXGroup;
 			children = (
 				BFB820561DCAE24E00350104 /* demo1.mp4 */,
+				BFB820581DCAE33E00350104 /* demo.gif */,
 				BFD2DDA71D8B9A8100A864BE /* ztpicker */,
 				BFD2DD741D8B9A7500A864BE /* AppDelegate.h */,
 				BFD2DD751D8B9A7500A864BE /* AppDelegate.m */,
@@ -284,6 +287,7 @@
 			files = (
 				BFB820571DCAE24E00350104 /* demo1.mp4 in Resources */,
 				BFD2DD841D8B9A7500A864BE /* LaunchScreen.storyboard in Resources */,
+				BFB820591DCAE33E00350104 /* demo.gif in Resources */,
 				BFD2DD811D8B9A7500A864BE /* Assets.xcassets in Resources */,
 				BFD2DD7C1D8B9A7500A864BE /* Main.storyboard in Resources */,
 			);
