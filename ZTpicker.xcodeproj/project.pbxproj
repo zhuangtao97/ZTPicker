@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BFB820551DCADF6700350104 /* demo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BFB820541DCADF6700350104 /* demo.mp4 */; };
+		BFB820571DCAE24E00350104 /* demo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BFB820561DCAE24E00350104 /* demo.mp4 */; };
 		BFD2DD731D8B9A7500A864BE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BFD2DD721D8B9A7500A864BE /* main.m */; };
 		BFD2DD761D8B9A7500A864BE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BFD2DD751D8B9A7500A864BE /* AppDelegate.m */; };
 		BFD2DD791D8B9A7500A864BE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFD2DD781D8B9A7500A864BE /* ViewController.m */; };
@@ -42,7 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BFB820541DCADF6700350104 /* demo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = demo.mp4; sourceTree = "<group>"; };
+		BFB820561DCAE24E00350104 /* demo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = demo.mp4; sourceTree = "<group>"; };
 		BFD2DD6E1D8B9A7500A864BE /* ZTpicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZTpicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFD2DD721D8B9A7500A864BE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BFD2DD741D8B9A7500A864BE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -120,7 +120,7 @@
 		BFD2DD701D8B9A7500A864BE /* ZTpicker */ = {
 			isa = PBXGroup;
 			children = (
-				BFB820541DCADF6700350104 /* demo.mp4 */,
+				BFB820561DCAE24E00350104 /* demo.mp4 */,
 				BFD2DDA71D8B9A8100A864BE /* ztpicker */,
 				BFD2DD741D8B9A7500A864BE /* AppDelegate.h */,
 				BFD2DD751D8B9A7500A864BE /* AppDelegate.m */,
@@ -282,7 +282,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BFB820551DCADF6700350104 /* demo.mp4 in Resources */,
+				BFB820571DCAE24E00350104 /* demo.mp4 in Resources */,
 				BFD2DD841D8B9A7500A864BE /* LaunchScreen.storyboard in Resources */,
 				BFD2DD811D8B9A7500A864BE /* Assets.xcassets in Resources */,
 				BFD2DD7C1D8B9A7500A864BE /* Main.storyboard in Resources */,
