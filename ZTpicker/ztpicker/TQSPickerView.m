@@ -283,7 +283,9 @@
 
     [UIView animateWithDuration:0.25 animations:^{
 
-        self.frame = CGRectMake(15, 180, SCREEN_WIDTH - 30, SCREEN_WIDTH - 50);
+        self.frame = CGRectMake(15, 180, SCREEN_WIDTH - 30, SCREEN_WIDTH - 10);
+        
+        
         [self.superview layoutIfNeeded];
         
     }];
@@ -295,7 +297,7 @@
  
     [UIView animateWithDuration:0.25 animations:^{
         
-        self.frame = CGRectMake(15, 180, SCREEN_WIDTH - 30, 0);
+        self.frame = CGRectMake(15, 180, 0, 0);
         [self.superview layoutIfNeeded];
         
     } completion:^(BOOL finished) {

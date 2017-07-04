@@ -41,7 +41,7 @@
     
     pickerView.delegate = self;
     
-    pickerView.frame = CGRectMake(15, 180, SCREEN_WIDTH - 30, 0);
+    pickerView.frame = CGRectMake(15, 180, 0, 0);
     
 //    pickerView.backgroundColor = [UIColor whiteColor];
     
