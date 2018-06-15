@@ -249,6 +249,8 @@
 				TargetAttributes = {
 					BFD2DD6D1D8B9A7500A864BE = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 9AZYELCWK9;
+						ProvisioningStyle = Manual;
 					};
 					BFD2DD891D8B9A7500A864BE = {
 						CreatedOnToolsVersion = 7.3;
@@ -465,10 +467,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = 9AZYELCWK9;
 				INFOPLIST_FILE = ZTpicker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = iOS.ZTpicker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.hxxy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "b5ee73fb-eca5-48e7-b493-2967e67f7efb";
+				PROVISIONING_PROFILE_SPECIFIER = developer_com_test_hxxy;
 			};
 			name = Debug;
 		};
@@ -476,10 +482,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = 9AZYELCWK9;
 				INFOPLIST_FILE = ZTpicker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = iOS.ZTpicker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.hxxy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "b5ee73fb-eca5-48e7-b493-2967e67f7efb";
+				PROVISIONING_PROFILE_SPECIFIER = developer_com_test_hxxy;
 			};
 			name = Release;
 		};
